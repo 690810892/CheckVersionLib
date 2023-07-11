@@ -44,6 +44,7 @@ allprojects {
 dependencies {
 	        implementation 'com.github.AlexLiuSheng:CheckVersionLib:2.4.1_androidx'
 	}
+implementation 'com.github.jikun2008:CheckVersionLib:2.4.5'//解决sdk31问题
 ```
 
 ### usage
